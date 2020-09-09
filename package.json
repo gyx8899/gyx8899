@@ -1,0 +1,20 @@
+{
+  "name": "gyx8899",
+  "version": "1.0.0",
+  "description": "Talk is cheap, show me your code!",
+  "main": "index.js",
+  "scripts": {
+    "git-push": "cd ../yx-env && git-push.sh gyx8899"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyx8899/gyx8899.git"
+  },
+  "keywords": [],
+  "author": "gyx8899",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gyx8899/gyx8899/issues"
+  },
+  "homepage": "https://github.com/gyx8899/gyx8899#readme"
+}
