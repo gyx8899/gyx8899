@@ -1,3 +1,3 @@
 ### Coder - Kate Kuo
 
-Talk is cheap, show me your code!
+Done is better than perfect!
