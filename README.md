@@ -6,4 +6,5 @@
 > 
 > -- Jason Fried（Basecamp 的创始人）
 
-[![Kate Kuo's github stats](https://github-readme-stats.vercel.app/api?username=gyx8899&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=gyx8899&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyx8899&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
