@@ -1,4 +1,4 @@
-### Coder - Kate Kuo
+### Coder - Kyle Kuo
 
 > You don't sharpen your skills with resources, books, or articles. You sharpen your skills with practice. If you want get better, go do the thing.
 >
